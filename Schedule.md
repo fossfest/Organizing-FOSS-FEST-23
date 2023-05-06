@@ -19,3 +19,4 @@
 - [ ] 02:00 PM - 04:00 PM - Workshop 2
 
  
+This is a provisional schedule, which may be subject to last-minute alterations.
